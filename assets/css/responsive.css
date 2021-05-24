@@ -433,3 +433,9 @@
     padding-top: 40px;
   }
 }
+.carousel-indicators li{
+  border-radius: 50%;
+  width: 14px;
+  background-color: #fc4349;
+  height: 14px;
+}
