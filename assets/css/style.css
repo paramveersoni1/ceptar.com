@@ -443,7 +443,8 @@ ul {
   /* left: 127px; */
 }
 .news_inner2 {
-  left: 0;
+  left: -75px;
+    top: 72px;
 }
 .readmore_two {
   margin: 10px 135px;
